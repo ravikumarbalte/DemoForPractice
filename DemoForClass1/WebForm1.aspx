@@ -8,16 +8,12 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+        <div>
 
-        <h2>Add H2 Tag</h2>
-
-        <p> Add Paragraph Tag</p>
-
-
-       
-    
-    </div>
+            <h2>Add H2 Tag</h2>
+            <p>Add Paragraph Tag</p>
+            <script></script>
+        </div>
     </form>
 </body>
 </html>
